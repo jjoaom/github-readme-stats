@@ -374,6 +374,13 @@ export const themes = {
     border_color: "170F0C",
     bg_color: "170F0C",
   },
+  pandora: {
+    title_color: "00C0FF",
+    text_color: "fffff",
+    icon_color: "EE982B",
+    border_color: "F1F1E6",
+    bg_color: "22617D",
+  }/
 };
 
 export default themes;
